@@ -1,0 +1,6 @@
+[submodule "libs/thirdparty/Unity"]
+	path = libs/thirdparty/Unity
+	url = https://github.com/ThrowTheSwitch/Unity.git
+[submodule "libs/thirdparty/CMock/CMock"]
+	path = libs/thirdparty/CMock/CMock
+	url = https://github.com/ThrowTheSwitch/CMock.git
